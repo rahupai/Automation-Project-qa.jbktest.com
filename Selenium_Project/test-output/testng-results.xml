@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6153" started-at="2024-01-25T18:44:55Z" finished-at="2024-01-25T18:45:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6153" started-at="2024-01-25T18:44:55Z" finished-at="2024-01-25T18:45:01Z">
+      <class name="test.TakeAQuizAgain_Testcase">
+        <test-method status="PASS" signature="browserSetting()[pri:0, instance:test.TakeAQuizAgain_Testcase@7dc7cbad]" name="browserSetting" is-config="true" duration-ms="3539" started-at="2024-01-26T00:14:55Z" finished-at="2024-01-26T00:14:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetting -->
+        <test-method status="PASS" signature="verifyTakeAQuizAgainFunc()[pri:1, instance:test.TakeAQuizAgain_Testcase@7dc7cbad]" name="verifyTakeAQuizAgainFunc" duration-ms="2597" started-at="2024-01-26T00:14:58Z" finished-at="2024-01-26T00:15:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTakeAQuizAgainFunc -->
+      </class> <!-- test.TakeAQuizAgain_Testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
